@@ -39,7 +39,7 @@
 
 <image src="/images/starwars.png" width="300" alt="star wars">
 
-**React, Typescript, Vite**
+**React, Redux, Typescript, Vite, Vitest**
 
 #### Christmas Shop
 
