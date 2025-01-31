@@ -1,12 +1,10 @@
-# Hello! 👋
-
-## I'm Victor! 👋
+# Hi! I'm Victor! 👋
 
 ### My Contacts
 
-- **E-mail:** 4342718@gmail.com
-- **Telegram:** [Write me in the Telegram](https://t.me/HummelV)
-- **GitHub:** [Maksim99745](https://github.com/GrigorevVic/)
+- **E-mail:** [4342718@gmail.com](4342718@gmail.com)
+- **Telegram:** [https://t.me/HummelV ](https://t.me/HummelV)
+- **GitHub:** [https://github.com/GrigorevVic/](https://github.com/GrigorevVic/)
 
 ### My skills:
 
