@@ -34,12 +34,12 @@
 
 #### Star Wars Characters
 
-- [Deploy link](https://grigorev-swapi.netlify.app)
+- [Deploy link](https://swapi-pages-router.netlify.app/)
 - [Repository link](https://github.com/GrigorevVic/SWapi)
 
 <image src="/images/starwars.png" width="300" alt="star wars">
 
-**React, Redux, Typescript, Vite, Vitest**
+**React, Redux Tollkit, Next.js, RTK Query, Typescript, Vite, Vitest**
 
 #### Christmas Shop
 
