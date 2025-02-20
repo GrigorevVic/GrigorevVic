@@ -6,6 +6,8 @@
 - **Telegram:** [https://t.me/HummelV ](https://t.me/HummelV)
 - **GitHub:** [https://github.com/GrigorevVic/](https://github.com/GrigorevVic/)
 
+![](https://komarev.com/ghpvc/?username=GrigorevVic)
+
 ### I’m currently learning:
 
 <div>
